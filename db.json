@@ -1,0 +1,8 @@
+{
+    "assignments": [
+        { "title": "Finish Homework", "isComplete": false, "id": 1, "tag": "math" },
+        { "title": "Read the lessen", "isComplete": false, "id": 2, "tag": "math" },
+        { "title": "Do the dishes", "isComplete": false, "id": 3, "tag": "science" },
+        { "title": "learn vue", "isComplete": true, "id": 4, "tag": "programming" }
+    ]
+}
